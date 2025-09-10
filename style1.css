@@ -18,7 +18,7 @@
     font-family: Tahoma, Arial, Helvetica, Sans-serif;
 }
 #main-nav {
-    color: #c49e9e;
+    color: #b6ed34;
     text-decoration: none;
 }
 #footer {
@@ -26,8 +26,8 @@
         height: 70px;
         font-family: Tahoma, Arial, Helvetica, Sans-serif;
         font-size: 10px;
-        color: #fd9292;
-        border-top: 1px solid #f8a9a9;
+        color: #f86767;
+        border-top: 1px solid #b6f162;
         padding: 13px 25px;
         line-height: 18px;
 }
